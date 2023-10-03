@@ -1,0 +1,17 @@
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\DriveScanner.exe
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\DriveScanner.deps.json
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\DriveScanner.runtimeconfig.json
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\DriveScanner.runtimeconfig.dev.json
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\DriveScanner.dll
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\DriveScanner.pdb
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.csprojAssemblyReference.cache
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.AssemblyInfoInputs.cache
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.AssemblyInfo.cs
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.csproj.CopyComplete
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.dll
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.pdb
+C:\Users\Ethan\DriveScanner\obj\Debug\netcoreapp3.1\DriveScanner.genruntimeconfig.cache
+C:\Users\Ethan\DriveScanner\bin\Debug\netcoreapp3.1\CsvHelper.dll
